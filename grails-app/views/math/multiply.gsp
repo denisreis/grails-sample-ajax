@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta name="layout" content="main"/>
-        <title>Multiple</title>
+        <title>Multiply</title>
         <g:javascript library="jquery"/>
     </head>
     <body>
